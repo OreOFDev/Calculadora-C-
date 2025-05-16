@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\OreOFDAY\OreOFDAY\bin\Debug\net8.0\OreOFDAY.exe
+C:\Users\Usuario\source\repos\OreOFDAY\OreOFDAY\bin\Debug\net8.0\OreOFDAY.deps.json
+C:\Users\Usuario\source\repos\OreOFDAY\OreOFDAY\bin\Debug\net8.0\OreOFDAY.runtimeconfig.json
+C:\Users\Usuario\source\repos\OreOFDAY\OreOFDAY\bin\Debug\net8.0\OreOFDAY.dll
+C:\Users\Usuario\source\repos\OreOFDAY\OreOFDAY\bin\Debug\net8.0\OreOFDAY.pdb
+C:\Users\Usuario\source\repos\OreOFDAY\OreOFDAY\obj\Debug\net8.0\OreOFDAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\OreOFDAY\OreOFDAY\obj\Debug\net8.0\OreOFDAY.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\OreOFDAY\OreOFDAY\obj\Debug\net8.0\OreOFDAY.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\OreOFDAY\OreOFDAY\obj\Debug\net8.0\OreOFDAY.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\OreOFDAY\OreOFDAY\obj\Debug\net8.0\OreOFDAY.dll
+C:\Users\Usuario\source\repos\OreOFDAY\OreOFDAY\obj\Debug\net8.0\refint\OreOFDAY.dll
+C:\Users\Usuario\source\repos\OreOFDAY\OreOFDAY\obj\Debug\net8.0\OreOFDAY.pdb
+C:\Users\Usuario\source\repos\OreOFDAY\OreOFDAY\obj\Debug\net8.0\OreOFDAY.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\OreOFDAY\OreOFDAY\obj\Debug\net8.0\ref\OreOFDAY.dll
